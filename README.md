@@ -1,4 +1,4 @@
-<p span style="collor: red"> void main() {
+<p style="color: red"> void main() {
 
   print("hello!");
   
