@@ -1,9 +1,8 @@
-<p style="color: red"> void main() {
+<p> style="color: red"> void main() {</p>
 
   print("hello!");
   
 }
-</p
 
 
 ##
