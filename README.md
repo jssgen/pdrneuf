@@ -1,3 +1,10 @@
+#include<stdio.h>
+
+int main()
+{
+    printf("Hello my name is Pedro!");
+}
+
 ##
 
 <div align="center">
