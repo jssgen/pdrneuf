@@ -1,11 +1,7 @@
-#include<stdio.h>
-
-int main()
-
-{
-    printf("Hello my name is Pedro!");
-    
+void main() {
+  print("hello!");
 }
+
 
 ##
 
