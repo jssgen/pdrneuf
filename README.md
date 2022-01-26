@@ -1,7 +1,7 @@
  ```elixir
  void main() {
 
-  print("Olá meu nome é Pedro, atualmente estou trabalhando para a <a href="https://2mi.com.br/"2mi</a> como desenvolvedor full stack, no momento estou focado na linguagem .dart!");
+  print("Hello my name is Pedro, im currently working for <span style="font-size:20px;">2mi</span> as a full stack developer, at the moment im focused on the .dart language!");
   
 }
 ```
@@ -31,6 +31,5 @@
   <a href="https://instagram.com/pdrneuf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.pdrneuf.ga/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="mailto:alvopedro0@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href
   </div>
   
