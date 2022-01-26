@@ -1,7 +1,7 @@
  ```elixir
  void main() {
 
-  print("Hello my name is Pedro, im currently working for 2mi as a full stack developer, at the moment im focused on the .dart language!");
+  print("im currently working for 2mi as a full stack developer, at the moment im focused on the .dart language!");
   
 }
 ```
